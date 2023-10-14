@@ -1,0 +1,2 @@
+import area
+area.area()
